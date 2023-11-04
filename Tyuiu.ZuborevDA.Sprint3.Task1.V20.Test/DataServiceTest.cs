@@ -20,7 +20,7 @@ namespace Tyuiu.ZuborevDA.Sprint3.Task1.V20.Test
 
             double wait = 51191.405;
 
-            Assert.AreEqual(res, wait);
+            Assert.AreEqual(wait, res);
         }
     }
 }
